@@ -1,0 +1,114 @@
+{
+    "products": [
+
+    {
+        "id": 1, 
+        "title": "Apple AirPods Max Silver", 
+        "description": "The Apple AirPods Max in Silver are premium over-e…ancellation. Experience immersive sound in style.",  
+        "price": 549.99,
+        "quantity":1,
+        "img":"https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20AirPods%20Max%20Silver/1.png" 
+    },
+ 
+    {
+        "id": 2, 
+        "title": "Apple iPhone Charger", 
+        "description": "The Apple iPhone Charger is a high-quality charger…ure your device stays powered up and ready to go.", 
+        "price": 19.99,
+        "quantity":1,
+        "img":"https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20iPhone%20Charger/2.png"
+    },
+
+    {
+        "id": 3, 
+        "title": "Apple MagSafe Battery Pack", 
+        "description": "The Apple MagSafe Battery Pack is a portable and c…. Attach it magnetically for a secure connection.", 
+        "price": 99.99,
+        "quantity":1,
+        "img":"https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/1.png"
+    },
+
+    {
+        "id": 4, 
+        "title": "Beats Flex Wireless Earphones", 
+        "description": "The Beats Flex Wireless Earphones offer a comforta…of battery life, they are ideal for everyday use.", 
+        "price": 49.99,
+        "quantity":1,
+        "img":"https://cdn.dummyjson.com/products/images/mobile-accessories/Beats%20Flex%20Wireless%20Earphones/1.png"
+    },
+
+    {
+        "id": 5, 
+        "title": "iPhone 12 Silicone Case with MagSafe Plum", 
+        "description": "The iPhone 12 Silicone Case with MagSafe in Plum i…fe technology for easy attachment of accessories.", 
+        "price": 29.99,
+        "quantity":1,
+        "img":"https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/3.png"
+    },
+
+    {
+        "id": 6, 
+        "title": "Selfie Lamp with iPhone", 
+        "description": "The Selfie Lamp with iPhone is a portable and adju…ls. Attach it to your iPhone for well-lit photos.", 
+        "price": 14.99,
+        "quantity":1,
+        "img":"https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/1.png"
+    },
+
+    {
+        "id": 7, 
+        "title": "Selfie Stick Monopod", 
+        "description": "The Selfie Stick Monopod is a extendable and folda…p photo. Compatible with smartphones and cameras.", 
+        "price": 12.99,
+        "quantity":1,
+        "img":"https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/1.png"
+    },
+
+    {
+        "id": 8, 
+        "title": "JBL Bluetooth Speaker", 
+        "description": "The iPhone 5s is a classic smartphone known for it…el, it still provides a reliable user experience.", 
+        "price": 199.99,
+        "quantity":1,
+        "img": "https://m.media-amazon.com/images/I/71B4kKo0dmL.jpg"
+    },
+
+    {
+        "id": 9, 
+        "title": "iPhone 6", 
+        "description": "The iPhone 6 is a stylish and capable smartphone w…elements, making it a popular choice in its time.", 
+        "price": 299.99,
+        "quantity":1,
+        "img":"https://m.media-amazon.com/images/I/81L7tO3hoQL.jpg"
+    },
+
+    {
+        "id": 10, 
+        "title": "iPhone 13 Pro", 
+        "description": "The iPhone 13 Pro is a cutting-edge smartphone wit…atures for users who demand top-notch technology.", 
+        "price": 1099.99,
+        "quantity":1,
+        "img":"https://5.imimg.com/data5/SELLER/Default/2022/12/HV/RD/ZK/180062131/apple-iphone-13-pro-128gb-silver.jpg"
+    },
+
+    {
+        "id": 11, 
+        "title": "Google pixel 9 pro", 
+        "description": "The iPhone X is a flagship smartphone featuring a …ents a milestone in iPhone design and innovation.", 
+        "price": 899.99,
+        "quantity":1,
+        "img": "https://gadgetsuite.net/wp-content/uploads/2024/08/Google-Pixel-9-spec-500x500.jpg"
+    },
+
+    
+    {
+        "id": 12, 
+        "title": "Oppo F19 Pro Plus", 
+        "description": "The Oppo F19 Pro Plus is a feature-rich smartphone…werful performance for a premium user experience.", 
+        "price": 399.99,
+        "quantity":1,
+        "img":"https://img.cdnx.in/266999/oppo-f19-pro-plus-1669381208677_SKU-1774_0.jpg?"
+    }
+
+    ]
+}
